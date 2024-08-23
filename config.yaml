@@ -1,0 +1,4 @@
+oqmd_api_url: "https://oqmd.org/api"
+model_path: "models/model.h5"
+vector_db_url: "your_tidb_vector_search_endpoint"
+tidb_database_url: "mysql+pymysql://user:password@host:port/database"
